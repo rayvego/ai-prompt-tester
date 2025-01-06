@@ -1,6 +1,5 @@
 import ConfigSection from "@/components/ConfigSection";
 import Hero from "@/components/Hero";
-import Metadata from "@/components/Metadata";
 import Output from "@/components/Output";
 import PromptEditor from "@/components/PromptEditor";
 
